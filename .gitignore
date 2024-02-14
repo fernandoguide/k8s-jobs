@@ -101,3 +101,4 @@ doc/api/
 *.js.map
 .flutter-plugins
 .flutter-plugins-dependencies
+.idea
